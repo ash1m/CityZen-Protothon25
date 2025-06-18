@@ -64,13 +64,13 @@ I fed these into Bolt to build the <a href="https://illustrious-yeot-4920fa.netl
 For the presentation images, I fed this image to OpenAI and asked to point the patterns it can see in the image.
 ![Inspiration](https://github.com/user-attachments/assets/16571c04-3b2d-4ca3-a8c0-97ee3daf8450)
 
-Vivid Colors 
-Cartoon/Illustrative Style
-Repetition of Rounded Shapes
-Emphasis on Human Expression
-Inclusion of Art and Creativity 
-Nature and Environment 
-Community and Connection
+Vivid Colors  <br>
+Cartoon/Illustrative Style  <br>
+Repetition of Rounded Shapes  <br>
+Emphasis on Human Expression  <br>
+Inclusion of Art and Creativity   <br>
+Nature and Environment   <br>
+Community and Connection  <br>
 
 
 I used the generated images to come up with a gradient for the presentation background
