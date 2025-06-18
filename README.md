@@ -1,4 +1,6 @@
 # CityZen-Protothon25
+<img width="320" alt="Logo" src="https://github.com/user-attachments/assets/49da6311-63fe-4360-b883-6fe6a52ec5b3" />
+
 Prototype built in Bolt as part of a weekend hackthon (spent 8 hours on this prototype).
 
 Process:
@@ -51,4 +53,28 @@ Then I sketched some ideas in Figma
 <td><img src="https://github.com/user-attachments/assets/b40d8e78-4295-4d5d-9d96-1ac46a3b485d" alt="sketch3"></td>
 </tr>
 </table>
+
+I fed these into Bolt to build the <a href="https://illustrious-yeot-4920fa.netlify.app/">prototype</a>.
+
+---------------------------
+
+For the presentation images, I fed this image to OpenAI and asked to point the patterns it can see in the image.
+![Inspiration](https://github.com/user-attachments/assets/16571c04-3b2d-4ca3-a8c0-97ee3daf8450)
+
+Vivid Colors 
+Cartoon/Illustrative Style
+Repetition of Rounded Shapes
+Emphasis on Human Expression
+Inclusion of Art and Creativity 
+Nature and Environment 
+Community and Connection
+
+
+I used the generated images to come up with a gradient for the presentation background
+Slides from Presentation:
+
+<img width="1042" alt="Slide01" src="https://github.com/user-attachments/assets/cfae0088-1f49-429a-8e0b-225385edbfd3" />
+<img width="1042" alt="Slide02" src="https://github.com/user-attachments/assets/33d752c5-c8e6-42ac-b4ef-de4b9c6d9a78" />
+
+
 
