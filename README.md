@@ -6,7 +6,7 @@ Process:
 The goal was to design smarter, more human-centered urban experiences— from navigation and public transport to safety, accessibility, and community engagement.
 
 Based on the <a href="https://doc.clickup.com/26455927/p/h/t7bvq-4251/f677b716e286242/t7bvq-4491">brief</a>, I came up with the following target user profile-
-<table width=100%>
+<table style="width:100%">
   <tr valign="top">
     <td>
       <h2>Citizen Type</h2>
