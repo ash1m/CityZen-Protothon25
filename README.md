@@ -8,5 +8,5 @@ The goal was to design smarter, more human-centered urban experiences— from na
 Based on the brief, I sketched some ideas 
 | | | |
 |---|---|---|
-| ![sketch01](https://github.com/user-attachments/assets/c3ced198-bf78-4b21-a916-0b6d71f6cf3e) | ![sketch02](https://github.com/user-attachments/assets/983e7422-0dc1-44bb-bc7e-7985ecc61ea9) | ![sketch3](https://github.com/user-attachments/assets/b40d8e78-4295-4d5d-9d96-1ac46a3b485d) |
+| <img src="https://github.com/user-attachments/assets/c3ced198-bf78-4b21-a916-0b6d71f6cf3e" alt="sketch01" style="vertical-align: top;"> | <img src="https://github.com/user-attachments/assets/983e7422-0dc1-44bb-bc7e-7985ecc61ea9" alt="sketch02" style="vertical-align: top;"> | <img src="https://github.com/user-attachments/assets/b40d8e78-4295-4d5d-9d96-1ac46a3b485d" alt="sketch3" style="vertical-align: top;"> |
 
