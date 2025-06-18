@@ -1,9 +1,15 @@
 # CityZen-Protothon25
-<table style="width:100%" margin-left: auto; margin-right: auto;>
+<table style="width:100%" class="center">
     <td text-align:center>
 <img width="320" alt="Logo" src="https://github.com/user-attachments/assets/49da6311-63fe-4360-b883-6fe6a52ec5b3" />
     </td>
 </table>
+.center
+{
+ margin-left: auto; 
+ margin-right: auto;
+}
+
 Prototype built in Bolt as part of a weekend hackthon (spent 8 hours on this prototype).
 
 
