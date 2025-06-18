@@ -5,16 +5,16 @@ Process:
 ![generated-image(4)](https://github.com/user-attachments/assets/89575805-6ba6-4093-b9dc-6995cadd281d)
 The goal was to design smarter, more human-centered urban experiences— from navigation and public transport to safety, accessibility, and community engagement.
 
-Based on the brief, I came up with the following target user profile-
+Based on the <a href="https://doc.clickup.com/26455927/p/h/t7bvq-4251/f677b716e286242/t7bvq-4491">brief</a>, I came up with the following target user profile-
 <table>
   <tr valign="top">
     <td>
       <h2>Citizen Type</h2>
       <p>
-        * Newly moved in
-        * Living in an apartment building
-        * Living in a gated community
-        * Living in a city
+        Newly moved in<br>
+        Living in an apartment building<br>
+        Living in a gated community<br>
+        Living in a city
 </p>
     </td>
     <td>
