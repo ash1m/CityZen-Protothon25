@@ -22,9 +22,9 @@ Based on the <a href="https://doc.clickup.com/26455927/p/h/t7bvq-4251/f677b716e2
       </h2>
 <p>
 1. Raise issue quickly
-    1. Issue location
-    2. nature of issue using AI
-    3. Record evidence easily (guidelines)
+    1. Issue location <br>
+    2. nature of issue using AI <br>
+    3. Record evidence easily (guidelines) <br>
     4. create a sense of urgency
 
 2. Escalate Issue to Community (level)
