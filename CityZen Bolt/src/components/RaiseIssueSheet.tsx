@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { X, Mic, Upload, Camera, Trash2, AlertCircle, MessageSquare, ThumbsUp } from 'lucide-react';
 import { issueTags } from '../data/mockData';
-import mapLocationImage from '../assets/map-location.jpg';
 
 interface RaiseIssueSheetProps {
   isOpen: boolean;
@@ -124,7 +123,7 @@ export const RaiseIssueSheet: React.FC<RaiseIssueSheetProps> = ({ isOpen, onClos
               <h3 className="text-sm font-medium text-gray-700 mb-2">Highlight the area of the issue</h3>
               <div className="w-full h-64 rounded-xl overflow-hidden bg-gray-100 relative">
                 <img
-                  src={mapLocationImage}
+                  src="/images/map-location.jpg"
                   alt="Map Location"
                   className="w-full h-full object-cover"
                 />
