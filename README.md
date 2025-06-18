@@ -3,9 +3,10 @@
     <td text-align:center>
 <img width="320" alt="Logo" src="https://github.com/user-attachments/assets/49da6311-63fe-4360-b883-6fe6a52ec5b3" />
     </td>
+    <td><h2>Prototype built in Bolt as part of a weekend hackthon (spent 8 hours on this prototype). </h2></td>
 </table>
 
-Prototype built in Bolt as part of a weekend hackthon (spent 8 hours on this prototype).
+
 
 Process:
 The goal was to design smarter, more human-centered urban experiences— from navigation and public transport to safety, accessibility, and community engagement.
@@ -73,7 +74,7 @@ Nature and Environment   <br>
 Community and Connection  <br>
 
 
-I used the generated images to come up with a gradient for the presentation background
+I used the generated images to come up with a gradient for the presentation background  <br>
 Slides from Presentation:
 
 <img width="1042" alt="Slide01" src="https://github.com/user-attachments/assets/cfae0088-1f49-429a-8e0b-225385edbfd3" />
