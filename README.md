@@ -21,22 +21,22 @@ Based on the <a href="https://doc.clickup.com/26455927/p/h/t7bvq-4251/f677b716e2
         Goals of Citizen-
       </h2>
 <p>
-<h3> 1. Raise issue quickly </h3> <br>
+<h3> 1. Raise issue quickly </h3>
   Issue location <br>
   Nature of issue using AI <br>
   Record evidence easily (guidelines) <br>
   create a sense of urgency
 
-<h3> 2. Escalate Issue to Community (level) </h3> <br>
+<h3> 2. Escalate Issue to Community (level) </h3>
 * Motivation (short text/video) <br>
 * Language Translate (for newly moved in) <br>
 
-<h3> 3. Escalate issue to Local Authority (Police, Mayor, Councilor) </h3> <br>
+<h3> 3. Escalate issue to Local Authority (Police, Mayor, Councilor) </h3>
 * Written Complaint <br>
 * Signed Petition <br>
 * Status Update <br>
 
-4. Follow-up on issue (who to call) <br>
+<h3> 4. Follow-up on issue (who to call) </h3>
 </p>
     </td>
   </tr>
