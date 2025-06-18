@@ -1,13 +1,14 @@
 # CityZen-Protothon25
-<table style="width:100%">
+<table style="width:100%" margin-left: auto; margin-right: auto;>
     <td text-align:center>
 <img width="320" alt="Logo" src="https://github.com/user-attachments/assets/49da6311-63fe-4360-b883-6fe6a52ec5b3" />
     </td>
 </table>
 Prototype built in Bolt as part of a weekend hackthon (spent 8 hours on this prototype).
 
-Process:
+
 ![generated-image(4)](https://github.com/user-attachments/assets/89575805-6ba6-4093-b9dc-6995cadd281d)
+Process:
 The goal was to design smarter, more human-centered urban experiences— from navigation and public transport to safety, accessibility, and community engagement.
 
 Based on the <a href="https://doc.clickup.com/26455927/p/h/t7bvq-4251/f677b716e286242/t7bvq-4491">brief</a>, I came up with the following target user profile-
