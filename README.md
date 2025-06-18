@@ -11,9 +11,9 @@ Based on the <a href="https://doc.clickup.com/26455927/p/h/t7bvq-4251/f677b716e2
     <td>
       <h2>Citizen Type</h2>
       <p>
-        * Newly moved in
-        * Living in an aparment building/gated community
-        * Living in a city
+        * Newly moved in <br>
+        * Living in an aparment building/gated community <br>
+        * Living in a city <br>
       </p>
     </td>
     <td>
