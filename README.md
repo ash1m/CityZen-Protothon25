@@ -6,7 +6,7 @@ Process:
 The goal was to design smarter, more human-centered urban experiences— from navigation and public transport to safety, accessibility, and community engagement.
 
 Based on the <a href="https://doc.clickup.com/26455927/p/h/t7bvq-4251/f677b716e286242/t7bvq-4491">brief</a>, I came up with the following target user profile-
-<table>
+<table width=100%>
   <tr valign="top">
     <td>
       <h2>Citizen Type</h2>
@@ -27,16 +27,16 @@ Based on the <a href="https://doc.clickup.com/26455927/p/h/t7bvq-4251/f677b716e2
     * Record evidence easily (guidelines) <br>
     * create a sense of urgency
 
-2. Escalate Issue to Community (level)
-    * Motivation (short text/video)
-    * Language Translate (for newly moved in)
+2. Escalate Issue to Community (level) <br>
+    * Motivation (short text/video) <br>
+    * Language Translate (for newly moved in) <br>
 
-3. Escalate issue to Local Authority (Police, Mayor, Councilor)
-    * Written Complaint
-    * Signed Petition
-    * Status Update
+3. Escalate issue to Local Authority (Police, Mayor, Councilor) <br>
+    * Written Complaint <br>
+    * Signed Petition <br>
+    * Status Update <br>
 
-4. Follow-up on issue (who to call)  
+4. Follow-up on issue (who to call) <br>
 </p>
     </td>
   </tr>
