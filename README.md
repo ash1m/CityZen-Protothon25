@@ -5,7 +5,46 @@ Process:
 ![generated-image(4)](https://github.com/user-attachments/assets/89575805-6ba6-4093-b9dc-6995cadd281d)
 The goal was to design smarter, more human-centered urban experiences— from navigation and public transport to safety, accessibility, and community engagement.
 
-Based on the brief, I sketched some ideas 
+Based on the brief, I came up with the following target user profile-
+<table>
+  <tr>
+    <td>
+      <h2>Citizen Type</h2>
+      <p>
+        * Newly moved in
+        * Living in an apartment building
+        * Living in a gated community
+        * Living in a city
+</p>
+    </td>
+    <td>
+      <h2>
+        Goals of Citizen-
+      </h2>
+<p>
+1. Raise issue quickly
+    1. Issue location
+    2. nature of issue using AI
+    3. Record evidence easily (guidelines)
+    4. create a sense of urgency
+
+2. Escalate Issue to Community (level)
+    * Motivation (short text/video)
+    * Language Translate (for newly moved in)
+
+3. Escalate issue to Local Authority (Police, Mayor, Councilor)
+    * Written Complaint
+    * Signed Petition
+    * Status Update
+
+4. Follow-up on issue (who to call)  
+</p>
+    </td>
+  </tr>
+</table>
+
+
+Then I sketched some ideas in Figma
 <table>
 <tr valign="top">
 <td><img src="https://github.com/user-attachments/assets/c3ced198-bf78-4b21-a916-0b6d71f6cf3e" alt="sketch01"></td>
@@ -13,3 +52,4 @@ Based on the brief, I sketched some ideas
 <td><img src="https://github.com/user-attachments/assets/b40d8e78-4295-4d5d-9d96-1ac46a3b485d" alt="sketch3"></td>
 </tr>
 </table>
+
