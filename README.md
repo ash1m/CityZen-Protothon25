@@ -11,10 +11,10 @@ Based on the <a href="https://doc.clickup.com/26455927/p/h/t7bvq-4251/f677b716e2
     <td>
       <h2>Citizen Type</h2>
       <p>
-        Newly moved in<br>
-        Living in an apartment building<br>
-        Living in a gated community<br>
-        Living in a city
+        a. Newly moved in
+        b. Living in an apartment building
+        c. Living in a gated community
+        d. Living in a city
 </p>
     </td>
     <td>
