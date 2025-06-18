@@ -7,7 +7,7 @@ The goal was to design smarter, more human-centered urban experiences— from na
 
 Based on the brief, I came up with the following target user profile-
 <table>
-  <tr>
+  <tr valign="top">
     <td>
       <h2>Citizen Type</h2>
       <p>
