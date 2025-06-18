@@ -3,10 +3,8 @@
     <td text-align:center>
 <img width="320" alt="Logo" src="https://github.com/user-attachments/assets/49da6311-63fe-4360-b883-6fe6a52ec5b3" />
     </td>
-    <td><h2>Prototype built in Bolt as part of a weekend hackthon (spent 8 hours on this prototype). </h2></td>
+    <td><h2>Prototype built in Bolt as part of a weekend hackthon</h2></td>
 </table>
-
-
 
 Process:
 The goal was to design smarter, more human-centered urban experiences— from navigation and public transport to safety, accessibility, and community engagement.
