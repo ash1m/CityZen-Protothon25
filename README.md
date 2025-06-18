@@ -8,5 +8,5 @@ The goal was to design smarter, more human-centered urban experiences— from na
 Based on the brief, I sketched some ideas 
 | | | |
 |---|---|---|
-| ![Alt 1](<img width="276" alt="Raise Issue 04" src="https://github.com/user-attachments/assets/c3ced198-bf78-4b21-a916-0b6d71f6cf3e" />) | ![Alt 2](<img width="291" alt="Raise Issue 03" src="https://github.com/user-attachments/assets/983e7422-0dc1-44bb-bc7e-7985ecc61ea9" />) | ![Alt 3](<img width="339" alt="Issue 02" src="https://github.com/user-attachments/assets/b40d8e78-4295-4d5d-9d96-1ac46a3b485d" />) |
+| ![sketch01](https://github.com/user-attachments/assets/c3ced198-bf78-4b21-a916-0b6d71f6cf3e) | ![sketch02](https://github.com/user-attachments/assets/983e7422-0dc1-44bb-bc7e-7985ecc61ea9) | ![Alt 3](<img width="339" alt="Issue 02" src="https://github.com/user-attachments/assets/b40d8e78-4295-4d5d-9d96-1ac46a3b485d" />) |
 
